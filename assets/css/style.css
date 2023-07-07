@@ -1,0 +1,19 @@
+* {
+box-sizing: border-box
+}
+
+html {
+font-size: 62.5%;
+scroll-behavior: smooth
+}
+
+body {
+font-size: 1.6rem ;
+font-family: 'Sora', sans-serif;
+}
+
+/* common */
+.container {
+    width: 1169px;
+    max-width: 100%;
+}

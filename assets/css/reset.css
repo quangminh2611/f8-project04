@@ -53,7 +53,7 @@ button {
     padding: 0;
     width: auto;
     overflow: visible;
-
+    cursor: pointer;
     background: transparent;
 
     /* inherit font & color from ancestor */
@@ -86,4 +86,9 @@ textarea,
 select,
 button {
 font: inherit
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
 }
